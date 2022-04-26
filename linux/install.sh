@@ -1,4 +1,7 @@
 #!/bin/sh
+sudo apt install -y qemu
+sudo apt install -y qemu-utils
+sudo apt install -y qemu-system
 
 set -xe
 

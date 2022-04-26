@@ -1,5 +1,4 @@
-sudo apt install qemu
-sudo apt install qemu-img
+#! /bin/sh
 
 QEMU_HOME="/usr"
 
