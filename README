@@ -1,0 +1,7 @@
+Instructions:
+Copy TempleOS.ISO to the folder of your temple.
+Copy the context of /linux to that folder too.
+Run ./install.sh
+
+To run again, run ./run.sh
+All hail king Terry!

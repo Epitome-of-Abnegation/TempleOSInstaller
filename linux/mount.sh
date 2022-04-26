@@ -1,14 +1,15 @@
 #!/bin/sh
 
+set -xe
+
+. ./config.sh
+
 $NAME = "temple-img.iso"
 if [ $# -lt 1 ]; then
     echo "Using $1"
     $NAME=$1
 fi
 
-set -xe
-
-. ./config.sh
 
 sync
 sudo umount $QEMU_IMG_MOUNT_DIR || true
