@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linux/qemu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linux/qemu/capstone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linux/qemu/dtc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linux/qemu/meson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linux/qemu/roms/QemuMacDrivers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linux/qemu/roms/SLOF" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linux/qemu/roms/edk2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linux/qemu/roms/ipxe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linux/qemu/roms/openbios" vcs="Git" />
+  </component>
+</project>
