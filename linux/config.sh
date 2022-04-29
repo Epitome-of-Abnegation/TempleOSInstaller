@@ -21,4 +21,4 @@ QEMU_IMG_SIZE="2G"
 QEMU_IMG_MOUNT_DIR="./mnt/"
 # Note on the offset: https://www.cloudsavvyit.com/7517/how-to-mount-a-qemu-virtual-disk-image/
 QEMU_IMG_MOUNT_OFFSET=32256
-TEMPLEOS_ISO="./TempleOS.ISO"
+TEMPLEOS_ISO="../TempleOS.ISO"
