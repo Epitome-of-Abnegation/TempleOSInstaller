@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo "Checking for QEMU..."
 if ! type "qemu-io" > /dev/null; then # Checking that QEMU exists
 
